@@ -8,21 +8,21 @@
 <!--<p align="left"> <a href="https://www.linkedin.com/in/shayan-kumar-187164a6/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm0j1Xe9qtjUA9jP5tvt_HNR0lbueUZ3NJQ&usqp=CAU" alt="Shayankr" height=30 width=200/></a> </p>
 -->
 
-## Skills
+## <center>Skills</center>
 - 💻 Proficient in Python programming
 - 📈 Skilled in data analysis and visualization
 - 🤖 Experienced in building machine learning and Deep Learning models
 
-## About Me
+## <center>About Me</center>
 - 🔭 I’m currently working on computer vision projects.
 - 🌱 I’m currently learning more about deep learning techniques for image processing.
 - 👯 I’m looking to:
-* collaborate on projects related to object detection, segmentation, and pose estimation
-* Join a research group or lab of Computer Vision
-* Collaborate with startups working in the field of computer vision to develop real-world applications.
+  * collaborate on projects related to object detection, segmentation, and pose estimation
+  * Join a research group or lab of Computer Vision
+  * Collaborate with startups working in the field of computer vision to develop real-world applications.
 - 🤔 I’m looking for help with ...
-* Participate in open source projects related to computer vision, such as OpenCV, TensorFlow, and PyTorch.
-* Implementing GANs for image synthesis.
+  * Participate in open source projects related to computer vision, such as OpenCV, TensorFlow, and PyTorch.
+  * Implementing GANs for image synthesis.
 - 💬 Ask me about ... Neural Network, Computer Vision.
 - 📫 How to reach me: [Email](mailto:shayankumar765@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shayankr)
 - 😄 Pronouns: He/Him
