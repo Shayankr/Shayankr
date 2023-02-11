@@ -3,14 +3,28 @@
 
 <h3 align="center">A young-dumb 🤓 Data Science, ML especially Computer Vision Expert from India 🇮🇳</h3>
 
-Welcome to my GitHub profile!
+**Welcome to my GitHub profile!**
 
-<p align="left"> <a href="https://www.linkedin.com/in/shayan-kumar-187164a6/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm0j1Xe9qtjUA9jP5tvt_HNR0lbueUZ3NJQ&usqp=CAU" alt="Shayankr" height=30 width=200/></a> </p>
+<!--<p align="left"> <a href="https://www.linkedin.com/in/shayan-kumar-187164a6/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm0j1Xe9qtjUA9jP5tvt_HNR0lbueUZ3NJQ&usqp=CAU" alt="Shayankr" height=30 width=200/></a> </p>
+-->
 
 ## Skills
 - 💻 Proficient in Python programming
 - 📈 Skilled in data analysis and visualization
-- 🤖 Experienced in building machine learning models
+- 🤖 Experienced in building machine learning and Deep Learning models
+
+
+- 🔭 I’m currently working on Computer Vision problems especilaly face analysis.
+- 🌱 I’m currently learning Advanced Machine Learning Concepts.
+- 👯 I’m looking to collaborate on:
+-       * Participate in computer vision challenges and hackathons
+-       * Join a research group or lab of Computer Vision
+-       * Collaborate with startups and industry partners working in the field of computer vision to develop real-world applications.
+- 🤔 I’m looking for help with ...
+-       * Participate in open source projects related to computer vision, such as OpenCV, TensorFlow, and PyTorch.
+- 💬 Ask me about ... Neural Network, Computer Vision.
+- ⚡ Fun fact: Any 2-D signal can be interpreted as an image. ||Change my mind||.
+
 
 ## Projects
 
@@ -30,9 +44,10 @@ A recommendation system for movie suggestions based on user preferences.
 [View on GitHub](https://github.com/Shayankr/movie-recommendation-system)
 
 ## Connect with me
-Feel free to reach out to me by email at [shayankumar765@gmail.com](mailto:shayankumar765@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shayankr).
+- 📫 Feel free to reach out to me by email at [shayankumar765@gmail.com](mailto:shayankumar765@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shayankr).
 
-Let's create something amazing together! 🚀
+
+**Let's create something amazing together! 🚀**
 <!--
 **Shayankr/Shayankr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
