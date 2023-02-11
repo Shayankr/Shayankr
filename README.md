@@ -13,17 +13,21 @@
 - 📈 Skilled in data analysis and visualization
 - 🤖 Experienced in building machine learning and Deep Learning models
 
-
-- 🔭 I’m currently working on Computer Vision problems especilaly face analysis.
-- 🌱 I’m currently learning Advanced Machine Learning Concepts.
-- 👯 I’m looking to collaborate on:
--       * Participate in computer vision challenges and hackathons
--       * Join a research group or lab of Computer Vision
--       * Collaborate with startups and industry partners working in the field of computer vision to develop real-world applications.
+## About Me
+- 🔭 I’m currently working on computer vision projects.
+- 🌱 I’m currently learning more about deep learning techniques for image processing.
+- 👯 I’m looking to:
+* collaborate on projects related to object detection, segmentation, and pose estimation
+* Join a research group or lab of Computer Vision
+* Collaborate with startups working in the field of computer vision to develop real-world applications.
 - 🤔 I’m looking for help with ...
--       * Participate in open source projects related to computer vision, such as OpenCV, TensorFlow, and PyTorch.
+* Participate in open source projects related to computer vision, such as OpenCV, TensorFlow, and PyTorch.
+* Implementing GANs for image synthesis.
 - 💬 Ask me about ... Neural Network, Computer Vision.
-- ⚡ Fun fact: Any 2-D signal can be interpreted as an image. ||Change my mind||.
+- 📫 How to reach me: [Email](mailto:shayankumar765@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shayankr)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to play chess and read books in my free time. 
+- Any 2-D signal can be interpreted as an image. ||Change my mind||.
 
 
 ## Projects
