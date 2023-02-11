@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile!
 
-<p align="left"> <a href="https://www.linkedin.com/in/shayan-kumar-187164a6/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm0j1Xe9qtjUA9jP5tvt_HNR0lbueUZ3NJQ&usqp=CAU" alt="Shayankr" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shayan-kumar-187164a6/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm0j1Xe9qtjUA9jP5tvt_HNR0lbueUZ3NJQ&usqp=CAU" alt="Shayankr" height=50 width=200/></a> </p>
 
 <!--
 **Shayankr/Shayankr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
