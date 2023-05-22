@@ -48,7 +48,7 @@ A recommendation system for movie suggestions based on user preferences.
 [View on GitHub](https://github.com/Shayankr/movie-recommendation-system)
 
 ## Connect with me
-- 📫 Feel free to reach out to me by email at [shayankumar765@gmail.com](mailto:shayankumar765@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shayankr).
+- 📫 Feel free to reach out to me by email at [shayankumar765@gmail.com](mailto:shayankumar765@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shayan-kumar-187164a6/).
 
 
 **Let's create something amazing together! 🚀**
