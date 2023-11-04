@@ -24,7 +24,7 @@
   * Participate in open source projects related to computer vision, such as OpenCV, TensorFlow, and PyTorch.
   * Implementing GANs for image synthesis.
 - 💬 Ask me about ... Neural Network, Computer Vision.
-- 📫 How to reach me: [Email](mailto:shayankumar765@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shayankr)
+- 📫 How to reach me: [Email](mailto:shayankumar765@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shayan-kumar-187164a6/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess and read books in my free time. 
 - Any 2-D signal can be interpreted as an image. ||Change my mind||.
